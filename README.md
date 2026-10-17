@@ -18,7 +18,8 @@ was performed as part of this project.
   readability.
 - Arrange multiple visualizations into a single dashboard.
 🖼️ Dashboard Preview
-  ![Data Visualization & Chart Practice](S_sDashboard.png)
+
+  ![Data Visualization & Chart Practice](S_s_Dashboard.png)
 
 
 📁 Workbook Structure
@@ -31,6 +32,7 @@ The workbook is organized into the following worksheets:
   Pivot 4     Supports one of the dashboard summaries.
   Pivot 5     Supports one of the dashboard summaries.
   Data        Contains the transaction dataset used for the summaries.
+  
 The Pivot sheets provide supporting summaries for the dashboard visuals.
 🗃️ Dataset Overview
 The dataset contains business transaction information, including fields
@@ -43,6 +45,7 @@ such as:
 - Payment method and discount
 These fields make it possible to practice comparing financial measures
 and grouping transactions by different business dimensions.
+
 📈 Dashboard Charts
 1. Total Profit by Payment Method
 Chart type: Column chart
@@ -94,6 +97,7 @@ title. Update the title in Excel if it matches the source PivotTable.
 - Pie chart
 - Data labels, legends, and chart titles
 - Dashboard layout and formatting
+  
 🔄 Workflow
 1. Use the provided dataset: Started with the transaction data
    available in the workbook.
@@ -105,6 +109,7 @@ title. Update the title in Excel if it matches the source PivotTable.
    added titles and labels.
 5. Review the visuals: Used different chart types to practice
    presenting summarized information clearly.
+   
 🚧 Project Scope and Limitations
 This is a learning project focused on Excel visualization rather than a
 full data-preparation pipeline.
@@ -117,6 +122,7 @@ full data-preparation pipeline.
 The phrase "no separate data-cleaning process" describes the scope of
 this project; it does not imply that the original dataset necessarily
 contained errors.
+
 📚 What I Learned
 - How to create and format several chart types in Excel.
 - How PivotTables can summarize data for visualization.
@@ -124,6 +130,7 @@ contained errors.
 - How to present product-line and regional information visually.
 - How titles, labels, and legends help explain charts.
 - How to combine multiple visuals into one dashboard worksheet.
+  
 🔮 Possible Future Improvements
 - Add slicers and timeline filters for interactive exploration.
 - Practice data cleaning and validation on a future version of the
@@ -133,6 +140,8 @@ contained errors.
   transaction count.
 - Document the source and meaning of each metric more explicitly.
 - Explore Power Query and Power BI in a future project.
+
+  
 ✅ Conclusion
 This project helped me practice Microsoft Excel's data-visualization
 features by turning summarized transaction data into a dashboard with
