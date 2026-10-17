@@ -21,19 +21,19 @@ was performed as part of this project.
 
 ## 🖼️ Dashboard Preview
 
-  ![Data Visualization & Chart Practice](S_s_Dashboard.png)
+  ![Practice-Excel-Dashboard-Without-silcer-use](S_s_Dashboard.png)
 
 
 ## 📁 Workbook Structure
 The workbook is organized into the following worksheets:
-  Worksheet     Purpose
-  Dashboard   Displays the five charts in one view.
-  Pivot 1     Supports one of the dashboard summaries.
-  Pivot 2     Supports one of the dashboard summaries.
-  Pivot 3     Supports one of the dashboard summaries.
-  Pivot 4     Supports one of the dashboard summaries.
-  Pivot 5     Supports one of the dashboard summaries.
-  Data        Contains the transaction dataset used for the summaries.
+ * Worksheet     Purpose
+ * Dashboard   Displays the five charts in one view.
+ * Pivot 1     Supports one of the dashboard summaries.
+ * Pivot 2     Supports one of the dashboard summaries.
+ * Pivot 3     Supports one of the dashboard summaries.
+ * Pivot 4     Supports one of the dashboard summaries.
+ * Pivot 5     Supports one of the dashboard summaries.
+ * Data        Contains the transaction dataset used for the summaries.
   
 The Pivot sheets provide supporting summaries for the dashboard visuals.
 
@@ -49,27 +49,27 @@ These fields make it possible to practice comparing financial measures
 and grouping transactions by different business dimensions.
 
 ### 📈 Dashboard Charts
-*1. Total Profit by Payment Method
+* 1. Total Profit by Payment Method
 Chart type: Column chart
 Compares total profit across Bank Transfer, Cash, Credit Card, and
 PayPal. Vertical bars make it easy to compare the values for each
 payment method.
 Skills practiced: Column charts, category comparisons, data labels,
 and chart formatting.
-*2. Total Revenue by Product Line
+* 2. Total Revenue by Product Line
 Chart type: Horizontal bar chart
 Compares total revenue across Software, Healthcare, Furniture,
 Electronics, and Clothing. Horizontal bars work well when category names
 are longer.
 Skills practiced: Bar charts, value labels, category comparison, and
 formatting.
-*3. Number of Transactions by Region
+* 3. Number of Transactions by Region
 Chart type: Area chart
 Shows transaction counts for Africa, Asia-Pacific, Europe, North
 America, and South America. This chart provides practice in presenting
 grouped regional values with an area chart.
 Skills practiced: Area charts, category labels, and data callouts.
-*4. Total Revenue, Expenses, and Profit by Category
+* 4. Total Revenue, Expenses, and Profit by Category
 Chart type: Line chart
 Compares three measures---total revenue, total expenses, and total
 profit---across HR, Marketing, Operations, R&D, and Sales.
@@ -77,14 +77,14 @@ The multiple lines make it easier to compare the measures across
 categories and see how their values vary.
 Skills practiced: Multi-series line charts, legends, axis
 formatting, and comparison of measures.
-*5. Average Expense by Department
+* 5. Average Expense by Department
 Chart type: Pie chart
 Displays the distribution of average expenses across Finance, HR, IT,
 Marketing, Operations, and Sales. The percentage labels help compare
 each department's share of the displayed total.
 Skills practiced: Pie charts, percentage labels, legends, and chart
 layout.
-Chart-title clarification: The dashboard screenshot currently
+* Chart-title clarification: The dashboard screenshot currently
 labels this chart "Average Expense for Each Category." Because the
 slices are departments, "Average Expense by Department" is a clearer
 title. Update the title in Excel if it matches the source PivotTable.
@@ -101,15 +101,15 @@ title. Update the title in Excel if it matches the source PivotTable.
 * Dashboard layout and formatting
   
 ## 🔄 Workflow
-*1. Use the provided dataset: Started with the transaction data
+* 1. Use the provided dataset: Started with the transaction data
    available in the workbook.
-*2. Summarize the data: Used PivotTables to organize measures and
+* 2. Summarize the data: Used PivotTables to organize measures and
    categories for charting.
-*3. Create the charts: Built five charts to present different
+* 3. Create the charts: Built five charts to present different
    comparisons.
-*4. Design the dashboard: Arranged the charts on one worksheet and
+* 4. Design the dashboard: Arranged the charts on one worksheet and
    added titles and labels.
-*5. Review the visuals: Used different chart types to practice
+* 5. Review the visuals: Used different chart types to practice
    presenting summarized information clearly.
    
 ## 🚧 Project Scope and Limitations
