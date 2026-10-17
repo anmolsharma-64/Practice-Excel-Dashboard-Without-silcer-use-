@@ -1,6 +1,6 @@
 # Data Visualization & Chart Practice
 
-# 📊 Project Overview
+## 📊 Project Overview
 This project is an Excel dashboard built to practice core
 data-visualization skills in Microsoft Excel. It demonstrates how
 transaction data can be summarized with PivotTables and presented
@@ -9,7 +9,7 @@ The main focus is learning PivotTables, charts, graphs, and dashboard
 layout. No slicers were used, and no separate data-cleaning workflow
 was performed as part of this project.
 
-# 🎯 Project Objectives
+## 🎯 Project Objectives
 - Practice creating different chart types in Excel.
 - Summarize transaction data with PivotTables.
 - Compare revenue, expenses, and profit across business categories.
@@ -19,12 +19,12 @@ was performed as part of this project.
   readability.
 - Arrange multiple visualizations into a single dashboard.
 
-# 🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
 
   ![Data Visualization & Chart Practice](S_s_Dashboard.png)
 
 
-# 📁 Workbook Structure
+## 📁 Workbook Structure
 The workbook is organized into the following worksheets:
   Worksheet     Purpose
   Dashboard   Displays the five charts in one view.
@@ -37,7 +37,7 @@ The workbook is organized into the following worksheets:
   
 The Pivot sheets provide supporting summaries for the dashboard visuals.
 
-# 🗃️ Dataset Overview
+### 🗃️ Dataset Overview
 The dataset contains business transaction information, including fields
 such as:
 - Transaction ID and transaction date
@@ -49,7 +49,7 @@ such as:
 These fields make it possible to practice comparing financial measures
 and grouping transactions by different business dimensions.
 
-# 📈 Dashboard Charts
+### 📈 Dashboard Charts
 1. Total Profit by Payment Method
 Chart type: Column chart
 Compares total profit across Bank Transfer, Cash, Credit Card, and
@@ -90,7 +90,7 @@ labels this chart "Average Expense for Each Category." Because the
 slices are departments, "Average Expense by Department" is a clearer
 title. Update the title in Excel if it matches the source PivotTable.
 
-# 🛠️ Tools and Excel Features
+## 🛠️ Tools and Excel Features
 - Microsoft Excel
 - PivotTables
 - Column chart
@@ -101,7 +101,7 @@ title. Update the title in Excel if it matches the source PivotTable.
 - Data labels, legends, and chart titles
 - Dashboard layout and formatting
   
-# 🔄 Workflow
+## 🔄 Workflow
 1. Use the provided dataset: Started with the transaction data
    available in the workbook.
 2. Summarize the data: Used PivotTables to organize measures and
@@ -113,7 +113,7 @@ title. Update the title in Excel if it matches the source PivotTable.
 5. Review the visuals: Used different chart types to practice
    presenting summarized information clearly.
    
-# 🚧 Project Scope and Limitations
+## 🚧 Project Scope and Limitations
 This is a learning project focused on Excel visualization rather than a
 full data-preparation pipeline.
 - No slicers were added.
@@ -126,7 +126,7 @@ The phrase "no separate data-cleaning process" describes the scope of
 this project; it does not imply that the original dataset necessarily
 contained errors.
 
-# 📚 What I Learned
+## 📚 What I Learned
 - How to create and format several chart types in Excel.
 - How PivotTables can summarize data for visualization.
 - How to compare financial measures across business categories.
@@ -134,7 +134,7 @@ contained errors.
 - How titles, labels, and legends help explain charts.
 - How to combine multiple visuals into one dashboard worksheet.
   
-# 🔮 Possible Future Improvements
+## 🔮 Possible Future Improvements
 - Add slicers and timeline filters for interactive exploration.
 - Practice data cleaning and validation on a future version of the
   dataset.
@@ -145,7 +145,7 @@ contained errors.
 - Explore Power Query and Power BI in a future project.
 
   
-# ✅ Conclusion
+## ✅ Conclusion
 This project helped me practice Microsoft Excel's data-visualization
 features by turning summarized transaction data into a dashboard with
 five different chart types. It is a foundation for future work with
