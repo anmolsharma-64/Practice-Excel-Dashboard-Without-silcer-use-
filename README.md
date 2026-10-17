@@ -21,7 +21,7 @@ was performed as part of this project.
 
 ## 🖼️ Dashboard Preview
 
-  ![Practice-Excel-Dashboard-Without-silcer-use](S_s_Dashboard.png)
+  ![Practice Excel Dashboard ](S_s_Dashboard.png)
 
 
 ## 📁 Workbook Structure
