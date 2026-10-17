@@ -20,7 +20,7 @@ was performed as part of this project.
 * Arrange multiple visualizations into a single dashboard.
 
 ## 🖼️ Dashboard Preview
-![Excel Dashboard](S_sDashboard.png)
+![Excel Dashboard](S_s Dashboard.png)
 
 
 ## 📁 Workbook Structure
